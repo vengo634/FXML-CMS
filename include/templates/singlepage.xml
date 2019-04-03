@@ -1,0 +1,8 @@
+<div style="clear:both;width:800px;margin-top:15px;"> 
+	<img src="{ICON}" style="float:left;width:60; height:40px;" /> {TITLE}
+	<div style="float:right;"> Автор: {AUTHOR} {EDIT}</div> 
+	<div style="padding-top:7px;color:gray;font-size:90%;">{CATEGORY} <div style="float:right;">Дата: {DATE}</div></div>
+	<br>{DESCRIPTION}
+	<div style="padding-top:10px;">{CONTENT}</div>
+	<div style="padding-top:7px;color:gray;font-size:90%;">Просмотров: {VIEW}</div>
+</div>

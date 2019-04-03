@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Чат</name>
+	<author>ForkPlayer! Project</author>
+	<creationDate>Jan 2019</creationDate>
+	<copyright>Copyright (C) 2019 Open Source</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>alexkdpu@ya.ru</authorEmail>
+	<authorUrl>xml.forkplayer.tv</authorUrl>
+	<version>1.0.0</version>
+	<icon>chat.png</icon>
+	<requiredXmlCms>1.0.0</requiredXmlCms>	
+	<description>Общение и отзывы пользователей</description>
+	<settings>
+		<allowread>0</allowread>
+		<allowwrite>2,3,4,5,6,7,8,9,10</allowwrite>
+		<allowdelete>9,10</allowdelete>
+		<showonmain>1</showonmain>
+		<showonmenu>1</showonmenu>
+		<rooms>
+			<enable>1</enable>
+			<icon>chat.png</icon>
+			<name>Общий чат</name>
+		</rooms>
+		<rooms>
+			<enable>1</enable>
+			<icon>chat.png</icon>
+			<name>Вопросы администрации</name>
+		</rooms>
+		<rooms>
+			<enable>1</enable>
+			<icon>chat.png</icon>
+			<name>Развлечение</name>
+		</rooms>
+	</settings>
+</plugin>

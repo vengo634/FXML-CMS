@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Авторизация</name>
+	<author>ForkPlayer! Project</author>
+	<creationDate>Jan 2019</creationDate>
+	<copyright>Copyright (C) 2019 Open Source</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>alexkdpu@ya.ru</authorEmail>
+	<authorUrl>xml.forkplayer.tv</authorUrl>
+	<version>1.0.0</version>
+	<icon>auth.png</icon>
+	<requiredXmlCms>1.0.0</requiredXmlCms>	
+	<description>Авторизация и регистрация пользователей</description>
+	<settings>
+		<enabled>1</enabled>
+		<allowread>0</allowread>
+		<allowwrite>0</allowwrite>
+		<allowdelete>10</allowdelete>
+		<linkonmain>1</linkonmain>
+		<showonmain>0</showonmain>
+		<showonmenu>1</showonmenu>
+	</settings>
+</plugin>

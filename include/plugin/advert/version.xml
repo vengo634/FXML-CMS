@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Реклама</name>
+	<author>ForkPlayer! Project</author>
+	<creationDate>Jan 2019</creationDate>
+	<copyright>Copyright (C) 2019 Open Source</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>alexkdpu@ya.ru</authorEmail>
+	<authorUrl>xml.forkplayer.tv</authorUrl>
+	<version>1.0.0</version>
+	<icon>advert.png</icon>
+	<includeFoorter>1</includeFoorter>
+	<requiredXmlCms>1.0.0</requiredXmlCms>	
+	<description>Размещение рекламы в плеере перед запуском stream</description>
+	<settings>
+		<allowread>10</allowread>
+		<allowwrite>10</allowwrite>
+		<allowdelete>10</allowdelete>
+		<allowupload>10</allowupload>
+		<showonmain>0</showonmain>
+		<showonmenu>1</showonmenu>
+	</settings>
+</plugin>
